@@ -15,6 +15,7 @@ KNN is the closest image in the data manifold to the adverserial example.
 <br/>
 The KNN is much faster as compared to solving an optimization problem. Thus, we think that on the execution time, 
 if we take less noise instances then this can be done in the real time.
-### Report
+
+#### Report 
 
 The Report and the detailed analysis can be found [here](./Report.pdf)
